@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1001,
+        "name": "Ha Noi Capital",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Hoan Kiem district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.02885485036829,
+            "longitude": 105.85221449359045
+        },
+        "imageName": "Hanoi"
+    },
+    {
+        "id": 1002,
+        "name": "Thanh Xuan",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Thanh Xuan district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.002612542164922,
+            "longitude": 105.81274495099383
+        },
+        "imageName": "Hanoi"
+    },
+    {
+        "id": 1003,
+        "name": "Hoang Mai",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Hoang Mai district",
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 20.969831076043004,
+            "longitude": 105.835770151362
+        },
+        "imageName": "hoangmai"
+    },
+    {
+        "id": 1004,
+        "name": "Ha Dong",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Ha Dong district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.00642206592126,
+            "longitude": 105.75468372233183
+        },
+        "imageName": "hadong"
+    },
+    {
+        "id": 1005,
+        "name": "Dong Da",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Dong Da district",
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 21.0181,
+            "longitude": 105.8299
+        },
+        "imageName": "dongda"
+    },
+    {
+        "id": 1006,
+        "name": "Ba Dinh",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Ba Dinh district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.0338,
+            "longitude": 105.8141
+        },
+        "imageName": "badinh"
+    },
+    {
+        "id": 1007,
+        "name": "Hai Ba Trung",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Hai Ba Trung district",
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 21.0091,
+            "longitude": 105.8608
+        },
+        "imageName": "haibatrung"
+    },
+    {
+        "id": 1008,
+        "name": "Long Bien",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Long Bien district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.044195041027706,
+            "longitude": 105.86080997383083
+        },
+        "imageName": "longbien"
+    },
+    {
+        "id": 1009,
+        "name": "Tay Ho",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Tay Ho district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.055424626260283,
+            "longitude": 105.81957829928548
+        },
+        "imageName": "tayho"
+    },
+    {
+        "id": 1010,
+        "name": "Cau Giay",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Cau Giay district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.0362,
+            "longitude": 105.7906
+        },
+        "imageName": "caugiay"
+    },
+    {
+        "id": 1011,
+        "name": "Nam Tu Liem",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Nam Tu Liem district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 20.9998,
+            "longitude": 105.7481
+        },
+        "imageName": "namtuliem"
+    },
+    {
+        "id": 1012,
+        "name": "Bac Tu Liem",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Bac Tu Liem district",
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 21.0730,
+            "longitude": 105.7703
+        },
+        "imageName": "bactuliem"
+    },
+    {
+        "id": 1013,
+        "name": "Thach That",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Thach That distrcit",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.01344027737834,
+            "longitude": 105.52712867031649
+        },
+        "imageName": "thachthat"
+    },
+    {
+        "id": 1014,
+        "name": "Ba Vi",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Ba Vi district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.06372461450028,
+            "longitude": 105.40243704740317
+        },
+        "imageName": "bavi"
+    },
+    {
+        "id": 1015,
+        "name": "Dong Anh",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Dong Anh district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.1611,
+            "longitude": 105.8496
+        },
+        "imageName": "donganh"
+    },
+    {
+        "id": 1016,
+        "name": "Hoai Duc",
+        "category": "District",
+        "city": "Ha Noi",
+        "park": "Hoai Duc district",
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 21.0243,
+            "longitude": 105.6989
+        },
+        "imageName": "hoaiduc"
+    }
+]

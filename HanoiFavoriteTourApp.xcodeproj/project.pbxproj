@@ -7,18 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		232B6C9728A2C3760099E410 /* HanoiFavoriteTourAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6C9628A2C3760099E410 /* HanoiFavoriteTourAppApp.swift */; };
+		232B6C9728A2C3760099E410 /* HanoiFavoriteTourApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6C9628A2C3760099E410 /* HanoiFavoriteTourApp.swift */; };
 		232B6C9928A2C3760099E410 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6C9828A2C3760099E410 /* ContentView.swift */; };
 		232B6C9B28A2C3770099E410 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 232B6C9A28A2C3770099E410 /* Assets.xcassets */; };
 		232B6C9E28A2C3770099E410 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 232B6C9D28A2C3770099E410 /* Preview Assets.xcassets */; };
+		232B6CA728A2C41C0099E410 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6CA628A2C41C0099E410 /* CircleImage.swift */; };
+		232B6CAB28A2C4450099E410 /* HanoiDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6CAA28A2C4450099E410 /* HanoiDetail.swift */; };
+		232B6CAF28A2C45A0099E410 /* HanoiList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6CAC28A2C45A0099E410 /* HanoiList.swift */; };
+		232B6CB028A2C45A0099E410 /* HanoiRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6CAD28A2C45A0099E410 /* HanoiRow.swift */; };
+		232B6CB128A2C45A0099E410 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6CAE28A2C45A0099E410 /* MapView.swift */; };
+		232B6CB628A2C4770099E410 /* Coordinate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6CB328A2C4770099E410 /* Coordinate.swift */; };
+		232B6CB728A2C4770099E410 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6CB428A2C4770099E410 /* ModelData.swift */; };
+		232B6CB828A2C4770099E410 /* Hanoi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232B6CB528A2C4770099E410 /* Hanoi.swift */; };
+		232B6CBB28A2C4A30099E410 /* hanoi.json in Resources */ = {isa = PBXBuildFile; fileRef = 232B6CBA28A2C4A30099E410 /* hanoi.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		232B6C9328A2C3760099E410 /* HanoiFavoriteTourApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HanoiFavoriteTourApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		232B6C9628A2C3760099E410 /* HanoiFavoriteTourAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HanoiFavoriteTourAppApp.swift; sourceTree = "<group>"; };
-		232B6C9828A2C3760099E410 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		232B6C9628A2C3760099E410 /* HanoiFavoriteTourApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HanoiFavoriteTourApp.swift; sourceTree = "<group>"; };
+		232B6C9828A2C3760099E410 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = ../ContentView.swift; sourceTree = "<group>"; };
 		232B6C9A28A2C3770099E410 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		232B6C9D28A2C3770099E410 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		232B6CA628A2C41C0099E410 /* CircleImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		232B6CAA28A2C4450099E410 /* HanoiDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HanoiDetail.swift; sourceTree = "<group>"; };
+		232B6CAC28A2C45A0099E410 /* HanoiList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HanoiList.swift; sourceTree = "<group>"; };
+		232B6CAD28A2C45A0099E410 /* HanoiRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HanoiRow.swift; sourceTree = "<group>"; };
+		232B6CAE28A2C45A0099E410 /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		232B6CB328A2C4770099E410 /* Coordinate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coordinate.swift; sourceTree = "<group>"; };
+		232B6CB428A2C4770099E410 /* ModelData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		232B6CB528A2C4770099E410 /* Hanoi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hanoi.swift; sourceTree = "<group>"; };
+		232B6CBA28A2C4A30099E410 /* hanoi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hanoi.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +69,10 @@
 		232B6C9528A2C3760099E410 /* HanoiFavoriteTourApp */ = {
 			isa = PBXGroup;
 			children = (
-				232B6C9628A2C3760099E410 /* HanoiFavoriteTourAppApp.swift */,
-				232B6C9828A2C3760099E410 /* ContentView.swift */,
+				232B6CB928A2C4920099E410 /* Resources */,
+				232B6CB228A2C46B0099E410 /* Model */,
+				232B6CA528A2C3C90099E410 /* Controller */,
+				232B6CA428A2C3A50099E410 /* Views */,
 				232B6C9A28A2C3770099E410 /* Assets.xcassets */,
 				232B6C9C28A2C3770099E410 /* Preview Content */,
 			);
@@ -65,6 +85,45 @@
 				232B6C9D28A2C3770099E410 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		232B6CA428A2C3A50099E410 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				232B6C9828A2C3760099E410 /* ContentView.swift */,
+				232B6CAC28A2C45A0099E410 /* HanoiList.swift */,
+				232B6CAD28A2C45A0099E410 /* HanoiRow.swift */,
+				232B6CAE28A2C45A0099E410 /* MapView.swift */,
+				232B6CAA28A2C4450099E410 /* HanoiDetail.swift */,
+				232B6CA628A2C41C0099E410 /* CircleImage.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		232B6CA528A2C3C90099E410 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				232B6C9628A2C3760099E410 /* HanoiFavoriteTourApp.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		232B6CB228A2C46B0099E410 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				232B6CB328A2C4770099E410 /* Coordinate.swift */,
+				232B6CB528A2C4770099E410 /* Hanoi.swift */,
+				232B6CB428A2C4770099E410 /* ModelData.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		232B6CB928A2C4920099E410 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				232B6CBA28A2C4A30099E410 /* hanoi.json */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				232B6C9E28A2C3770099E410 /* Preview Assets.xcassets in Resources */,
+				232B6CBB28A2C4A30099E410 /* hanoi.json in Resources */,
 				232B6C9B28A2C3770099E410 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +197,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				232B6CAB28A2C4450099E410 /* HanoiDetail.swift in Sources */,
+				232B6CB128A2C45A0099E410 /* MapView.swift in Sources */,
+				232B6CAF28A2C45A0099E410 /* HanoiList.swift in Sources */,
 				232B6C9928A2C3760099E410 /* ContentView.swift in Sources */,
-				232B6C9728A2C3760099E410 /* HanoiFavoriteTourAppApp.swift in Sources */,
+				232B6C9728A2C3760099E410 /* HanoiFavoriteTourApp.swift in Sources */,
+				232B6CB628A2C4770099E410 /* Coordinate.swift in Sources */,
+				232B6CB728A2C4770099E410 /* ModelData.swift in Sources */,
+				232B6CA728A2C41C0099E410 /* CircleImage.swift in Sources */,
+				232B6CB028A2C45A0099E410 /* HanoiRow.swift in Sources */,
+				232B6CB828A2C4770099E410 /* Hanoi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
